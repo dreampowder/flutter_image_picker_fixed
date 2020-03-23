@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff045754-eac6-4ef8-aeee-b13653fb5a7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagepicker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imagepicker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/image_picker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/image_picker.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="256" column="13" lean-forward="true" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
+            <state relative-caret-position="3255">
+              <caret line="256" column="13" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
               <folding>
                 <element signature="e#0#10233#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -39,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerDelegate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="548" column="44" selection-start-line="548" selection-start-column="44" selection-end-line="548" selection-end-column="44" />
+            <state relative-caret-position="329">
+              <caret line="312" column="76" selection-start-line="312" selection-start-column="76" selection-end-line="312" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -53,10 +57,14 @@
       <find>methodcall =</find>
       <find>handleImageResult</find>
       <find>override</find>
+      <find>Can't find a valid activity to handle the request. Make sure you've a file explorer installed</find>
+      <find>onactivityres</find>
+      <find>startac</find>
+      <find>image/</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,7 +74,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
+    <option name="x" value="224" />
     <option name="y" value="23" />
     <option name="width" value="2086" />
     <option name="height" value="1417" />
@@ -82,45 +90,6 @@
           <expand>
             <path>
               <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="io" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="io" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="io" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
-              <item name="imagepicker" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="io" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="imagepicker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imagepicker" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -128,8 +97,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,7 +142,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="23" width="2086" height="1417" extended-state="0" />
+    <frame x="224" y="23" width="2086" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -185,6 +154,7 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
@@ -208,8 +178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="256" column="13" lean-forward="true" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
+        <state relative-caret-position="3255">
+          <caret line="256" column="13" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
           <folding>
             <element signature="e#0#10233#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -217,10 +187,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="4542" column="16" selection-start-line="4542" selection-start-column="16" selection-end-line="4542" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/flutter/plugins/imagepicker/ImagePickerDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="548" column="44" selection-start-line="548" selection-start-column="44" selection-end-line="548" selection-end-column="44" />
+        <state relative-caret-position="329">
+          <caret line="312" column="76" selection-start-line="312" selection-start-column="76" selection-end-line="312" selection-end-column="76" />
         </state>
       </provider>
     </entry>
